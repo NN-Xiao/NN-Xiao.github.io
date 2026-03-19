@@ -1,3 +1,2 @@
 # NN-Xiao.github.io
-Hello
-I exist.
+Hi to anyone who is reading this. Welcome to my website!
